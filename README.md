@@ -62,6 +62,13 @@ Building the future, one commit at a time.
 | ⚡ [Rapid Prototyper](engineering/engineering-rapid-prototyper.md) | Fast POC development, MVPs | Quick proof-of-concepts, hackathon projects, fast iteration |
 | 💎 [Senior Developer](engineering/engineering-senior-developer.md) | Laravel/Livewire, advanced patterns | Complex implementations, architecture decisions |
 | 🔒 [Security Engineer](engineering/engineering-security-engineer.md) | Threat modeling, secure code review, security architecture | Application security, vulnerability assessment, security CI/CD |
+| 🐍 [Python Specialist](engineering/engineering-python-specialist.md) | FastAPI/Django, async Python, type safety, data processing | Python APIs, data pipelines, CLI tools, ML integration |
+| 🔷 [TypeScript Specialist](engineering/engineering-typescript-specialist.md) | Advanced type system, full-stack TypeScript, Zod, tRPC | Type-safe applications, Node.js services, React with strict typing |
+| 🐹 [Go Engineer](engineering/engineering-golang-specialist.md) | High-performance microservices, gRPC, concurrent systems | Cloud-native services, CLIs, high-throughput APIs |
+| 🦀 [Rust Engineer](engineering/engineering-rust-engineer.md) | Systems programming, async Tokio, WebAssembly, FFI | Performance-critical systems, WASM, safe low-level code |
+| ☸️ [Kubernetes Specialist](engineering/engineering-kubernetes-specialist.md) | Cluster architecture, operators, service mesh, GitOps | Container orchestration, platform engineering, Kubernetes operators |
+| 🏗️ [Terraform Engineer](engineering/engineering-terraform-engineer.md) | Infrastructure as Code, multi-cloud provisioning, security | Cloud infrastructure automation, IaC module design, GitOps pipelines |
+| ☁️ [Cloud Architect](engineering/engineering-cloud-architect.md) | Multi-cloud design, cost optimization, well-architected frameworks | Cloud strategy, migrations, resilient scalable architecture |
 
 ### 🎨 Design Division
 
@@ -171,6 +178,12 @@ The unique specialists who don't fit in a box.
 | 📈 [Data Consolidation Agent](specialized/data-consolidation-agent.md) | Sales data aggregation, dashboard reports | Territory summaries, rep performance, pipeline snapshots |
 | 📬 [Report Distribution Agent](specialized/report-distribution-agent.md) | Automated report delivery | Territory-based report distribution, scheduled sends |
 | 🔐 [Agentic Identity & Trust Architect](specialized/agentic-identity-trust.md) | Agent identity, authentication, trust verification | Multi-agent identity systems, agent authorization, audit trails |
+| 🔧 [Data Engineer](specialized/specialized-data-engineer.md) | ETL/ELT pipelines, data warehouses, streaming, data quality | Data ingestion, dbt transformations, Airflow orchestration, lakehouse design |
+| 🧠 [LLM Architect](specialized/specialized-llm-architect.md) | RAG systems, prompt engineering, agent frameworks, LLM evaluation | AI product development, retrieval systems, LLM-powered features |
+| ⚙️ [MLOps Engineer](specialized/specialized-mlops-engineer.md) | ML pipelines, model serving, drift monitoring, feature stores | Production ML lifecycle, model deployment, continuous training |
+| ⛓️ [Blockchain Developer](specialized/specialized-blockchain-developer.md) | Solidity smart contracts, DeFi, NFTs, Web3 frontend | Smart contract development, DeFi protocols, on-chain applications |
+| 📡 [IoT Engineer](specialized/specialized-iot-engineer.md) | Embedded firmware, RTOS, sensor integration, edge computing | Firmware development, IoT platform architecture, device management |
+| 💳 [Fintech Engineer](specialized/specialized-fintech-engineer.md) | Payment systems, double-entry ledgers, PCI-DSS, KYC/AML | Payment processing, financial data modeling, regulatory compliance |
 
 ---
 
@@ -307,7 +320,7 @@ Each agent is designed with:
 
 ## 📊 Stats
 
-- 🎭 **61 Specialized Agents** across 9 divisions
+- 🎭 **74 Specialized Agents** across 9 divisions
 - 📝 **10,000+ lines** of personality, process, and code examples
 - ⏱️ **Months of iteration** from real-world usage
 - 🌟 **Battle-tested** in production environments
